@@ -1,7 +1,9 @@
 print("hi")
 # i am not good at this :(
 
-print("hi", 25 + 30 / 6)
-print("hert", 100 - 25 * 3 % 4)
-print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
-print(3 + 2 < 5 - 7)
+print("i have 938$ in my bank i need to by 2 moter they ech cost 84 dolers. how much mmony will i have left in%")
+# my mony ishus
+print("so naw we need to find how much the 2 moters cost")
+print(84 * 2)
+print("so naw we need to tak 168 and subterakt is ferom are totel")
+print(938 - 168)
