@@ -20,10 +20,10 @@ print(100 - 17.91044776119403)
 
 
 # vaereubls
-cars = 100
+cars = 80
 space_in_a_car = 4.0
 drivers = 30
-passengers = 90
+passengers = 115
 cars_not_drivers = cars - drivers
 cars_driven = drivers
 carpool_capacity = cars_driven * space_in_a_car
