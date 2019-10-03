@@ -35,3 +35,18 @@ print("thaer will be", cars_not_drivers, "emty cars today")
 print("we can teribut", carpool_capacity,"pepel to day")
 print("we have", passengers, "to car pool to day")
 print("we have to pool abawt", average_passengers_per_car, "in ech car")
+
+# mor vaereubels
+myname = "kevin"
+myage = 9
+myheight = 91
+#METERS
+myeyes = "blue"
+myteeth = "blue"
+myhair = "godley"
+
+print("let's talk about %s." % myname)
+print("he's %d meters tall." % myheight)
+print("he's got %s eyes and %s hair." % (myeyes, myhair))
+print("if i add %d and %d, i get %d." % (myage, myheight, myage + myheight))
+
